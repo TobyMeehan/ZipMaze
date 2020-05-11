@@ -7,4 +7,8 @@
     <AssemblyName>ZipMaze</AssemblyName>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ZipMaze.Core\ZipMaze.Core.csproj" />
+  </ItemGroup>
+
 </Project>
